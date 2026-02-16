@@ -53,7 +53,4 @@
   <a href="https://discord.com/users/hikari__natsuki">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-  <!--<a href="mailto:Correo (">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a> -->
 </p>
