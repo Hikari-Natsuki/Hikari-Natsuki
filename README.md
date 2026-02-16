@@ -9,7 +9,7 @@
 💬 &nbsp;No dude en comunicarse conmigo para realizar consultoría y voluntariado, o simplemente para tener una discusión interesante..\
 ✉️ &nbsp;Pueden mandarme un correo al villegasmazomiguelangel@gmail.com! Trataré de responder lo más rápido que pueda.\
 
-<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tecnologías que manejo
 
