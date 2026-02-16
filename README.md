@@ -13,7 +13,7 @@
 
 ### 🛠 &nbsp;Tecnologías que manejo
 
-[![My Skills](https://skillicons.dev/icons?i=js,java,dotnet,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,dotnet,python,js)](https://skillicons.dev)
 
 ### 🗃 &nbsp;Bases de datos
 
