@@ -9,7 +9,7 @@
 💬 &nbsp;No dude en comunicarse conmigo para realizar consultoría y voluntariado, o simplemente para tener una discusión interesante..\
 ✉️ &nbsp;Pueden mandarme un correo al villegasmazomiguelangel@gmail.com! Trataré de responder lo más rápido que pueda.\
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
 
 ### 🛠 &nbsp;Tecnologías que manejo
 
@@ -53,14 +53,7 @@
   <a href="https://discord.com/users/hikari__natsuki">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-  <a href="mailto:TU_CORREO">
+  <!--<a href="mailto:Correo (">
     <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+  </a> -->
 </p>
-
-
-<div align="center">
-  <a href="https://github.com/Adityakanoi2001/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
