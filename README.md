@@ -13,16 +13,17 @@
 
 ### 🛠 &nbsp;Tecnologías que manejo
 
-[![My Skills](https://skillicons.dev/icons?i=java,dotnet,python,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,python,js,spring,maven,dotnet)](https://skillicons.dev)
 
 ### 🗃 &nbsp;Bases de datos
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,slqserver)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50"/>
 
 ### 🧰 &nbsp;Software y herramientas
 
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,github,git,postma)](https://skillicons.dev)
+
 
 ### ⚙️ &nbsp;Analíticas de GitHub
 
