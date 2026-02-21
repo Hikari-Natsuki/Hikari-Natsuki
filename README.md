@@ -7,22 +7,22 @@
 🌱 &nbsp;Estoy estudiando por cuenta propia patrones de diseños, tipos de arquitecturas, metodologías ágiles y mucho más, apollandome en lo que aprendo en la uni .\
 ✍️ &nbsp;En mi tiempo libre me gusta realizar pequeños ejercicios de programación, leer manga y ponerme a joder con código.\
 💬 &nbsp;No dude en comunicarse conmigo para realizar consultoría y voluntariado, o simplemente para tener una discusión interesante..\
-✉️ &nbsp;¡Pueden mandarme un correo al villegasmazomiguelangel@gmail.com! Trataré de responder lo más rápido que pueda.\
+✉️ &nbsp;¡Pueden mandarme mensajes a través de mis redes sociales! Trataré de responder lo más rápido que pueda.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tecnologías que manejo
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,python,js,spring,maven,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,python,spring,maven,dotnet)](https://skillicons.dev)
 
 ### 🗃 &nbsp;Bases de datos
 
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50"/>
 
 ### 🧰 &nbsp;Software y herramientas
 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,github,git,postman)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=visualstudio,vscode,github,git,postman)](https://skillicons.dev)
 
 
 ### ⚙️ &nbsp;Analíticas de GitHub
