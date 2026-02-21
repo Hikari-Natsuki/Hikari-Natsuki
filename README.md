@@ -2,8 +2,8 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
-👨‍💻 &nbsp;Soy un estudiante de la Universidad Pascual Bravo y en este momento estoy cursando el cuarto semestre.\
-🎓 &nbsp;Me gusta explorar nuevas tecnologías y herramientas que me lleven a ser un buen ingeniero de software.\
+🎓 &nbsp;Soy un estudiante de la Universidad Pascual Bravo y en este momento estoy cursando el cuarto semestre.\
+👨‍💻 &nbsp;Me gusta explorar nuevas tecnologías y herramientas que me lleven a ser un buen ingeniero de software.\
 🌱 &nbsp;Estoy estudiando por cuenta propia patrones de diseños, tipos de arquitecturas, metodologías ágiles y mucho más, apollandome en lo que aprendo en la uni .\
 ✍️ &nbsp;En mi tiempo libre me gusta realizar pequeños ejercicios de programación, leer manga y ponerme a joder con código.\
 💬 &nbsp;No dude en comunicarse conmigo para realizar consultoría y voluntariado, o simplemente para tener una discusión interesante..\
