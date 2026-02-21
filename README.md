@@ -22,7 +22,7 @@
 
 ### 🧰 &nbsp;Software y herramientas
 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,github,git,postma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,github,git,postman)](https://skillicons.dev)
 
 
 ### ⚙️ &nbsp;Analíticas de GitHub
